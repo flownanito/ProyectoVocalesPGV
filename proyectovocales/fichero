@@ -1,0 +1,6 @@
+¡Hola, Mundo! Este es un TEXTO de prueba para el programa de las VOCaLeS.
+A ver cuántas vocales logra contar el sistema correctamente...
+¿Funcionará con MAYÚSCULAS y minúsculas? Espero que SÍ.
+También debería leer líneas con números: 12345 y símbolos @#€%&*!
+El objetivo es comprobar cómo se comporta el código ante TODO tipo de caracteres.
+Si esto funciona, Tiburcio será el REY de las vocales en Java
